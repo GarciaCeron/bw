@@ -1,0 +1,25 @@
+﻿Physical Date,Environment,Job,INC,Reason,Resolution,Delay Y/N,Time Delayed
+05-ene-25,Env1,EOD_ORFS_VAL,INC218800,L0015 failed,Code corrected,Y,1 hr
+06-ene-25,Env1,CORE_PAY_ORFSP,INC218801,DRCNM  failed and L00DP failed,Moved files to proper path,N,No Delay
+07-ene-25,Env1,PREEOD_BRCDP,INC218802,N0150 failed,N0150 skipped,N,No Delay
+07-ene-25,Env1,CORE_PAY_ASUDP,INC218803,N0100 failed,N0100 skipped,N,No Delay
+08-ene-25,Env1,CORE_1200_OWLCG,INC218804,OWLU failed,"0 byte file, skipped",N,No Delay
+09-ene-25,Env1,CORE_INCHECKS_ICPRD,INC218805,P8DAY failed,"0 byte file, skipped",N,No Delay
+12-ene-25,Env1,CORE_PREEOD_OWLCG,INC218806,OWLU failed,Moved files to proper path,N,No Delay
+14-ene-25,Env5,CORE_PREEOD_SUMMARY_FILE_STAGE,INC218807,SBGA failed,SBGA skipped,Y,1 hr
+14-ene-25,Env5,CORE_EDO_HBKCOP_DPL_VAL,INC218808,Q8PAY failed,Q8PAY skipped,Y,1 hr
+15-ene-25,Env1,CORE_PREP_6DAY,INC218809,XXZZ1 failed,XXZZ1 skipped,Y,1 hr
+23-ene-25,Env2,CORE_1200_OWLCG,INC218810,ABDC failed,ABDC skipped,Y,1 hr
+26-ene-25,Env5,CORE_SITUAT_PREP_DPL,INC218811,FILE3 failed,FILE3 skipped,Y,1 hr
+26-ene-25,Env5,CORE_PAY_ACHSA,INC218812,FILE2 failed,Moved files to proper path,N,No Delay
+26-ene-25,Env5,CORE_PAY_ACHSF,INC218813,FILE3 failed,Moved files to proper path,N,No Delay
+26-ene-25,Env5,CORE_PAY_1200_OWLCG,INC218814,FILE5 failed,FILE5 skipped,N,No Delay
+26-ene-25,Env5,CORE_PAY_ACHSE,INC218815,DAC3 failed,Moved files to proper path,N,No Delay
+26-ene-25,Env5,CORE_PAY_ACHSC,INC218816,MNPQ failed,Moved files to proper path,N,No Delay
+26-ene-25,Env5,CORE_PAY_MMDMT,INC218817,MMAB failed,Moved files to proper path,N,No Delay
+27-ene-25,Env3,CORE_PAY_INCPD,INC218818,L0015 failed,Moved files to proper path,N,No Delay
+29-ene-25,Env1,CORE_PAY_ACHSC,INC218819,IPGDC long running,Moved files to proper path,N,No Delay
+29-ene-25,Env1,CORE_INTRA_OCBPC_EXEC,INC218820,FILE5 failed,FILE5 skipped,Y,1:20 hr
+29-ene-25,Env1,CORE_POSTBOD_AOPGL,INC218821,OPCBI failed,Moved files to proper path,N,No Delay
+29-ene-25,Env1,CORE_INTRA_DCDEA_P,INC218822,EXTIN long running,EXTIN skipped,N,No Delay
+29-ene-25,Env1,CORE_POSTBOD_DRPTS,INC218823,MANB long running,Moved files to proper path,N,No Delay
